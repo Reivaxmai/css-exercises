@@ -74,6 +74,7 @@ ul {
 .card {
   width: 300px;
   flex: 0 1 auto;
+  padding: 12px;
 }
 
 .footer {
