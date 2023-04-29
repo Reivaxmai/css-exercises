@@ -64,6 +64,18 @@ ul {
   gap: 16px;
 }
 
+.card-box {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  padding: 32px;
+}
+
+.card {
+  width: 300px;
+  flex: 0 1 auto;
+}
+
 .footer {
   display: flex;
   justify-content: center;
